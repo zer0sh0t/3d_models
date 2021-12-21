@@ -4,8 +4,8 @@
 parts:
 
 piston\
-piston cap\
 piston ring\
+piston pin\
 connecting rod\
 connecting rod cap\
 crankshaft
