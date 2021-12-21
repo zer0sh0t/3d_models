@@ -1,4 +1,5 @@
-![assembly](i4e.jpg)
+![assembly](i4e_ss.jpg)
+
 
 parts:
 
