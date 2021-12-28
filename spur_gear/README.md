@@ -1,1 +1,0 @@
-![spur_gear](sg_ss.jpg)
